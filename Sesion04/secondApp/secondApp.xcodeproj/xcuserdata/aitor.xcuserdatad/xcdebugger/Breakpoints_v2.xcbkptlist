@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "secondApp/AmigoTableViewController.swift"
+            timestampString = "530672746.305284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondApp.AmigoTableViewController.init (style : __C.UITableViewStyle) -&gt; secondApp.AmigoTableViewController"
+                  moduleName = "secondApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aitor/Desktop/sesion04%202/secondApp/secondApp/AmigoTableViewController.swift"
+                  timestampString = "530672937.994074"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondApp.AmigoTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; secondApp.AmigoTableViewController"
+                  moduleName = "secondApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aitor/Desktop/sesion04%202/secondApp/secondApp/AmigoTableViewController.swift"
+                  timestampString = "530672937.99463"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "secondApp.AmigoTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;secondApp.AmigoTableViewController&gt;"
+                  moduleName = "secondApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aitor/Desktop/sesion04%202/secondApp/secondApp/AmigoTableViewController.swift"
+                  timestampString = "530672937.995142"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
